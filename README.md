@@ -12,9 +12,3 @@ This project extracts specific data types from large strings using **Regular Exp
 - 📄 HTML tags
 - 🏷️ Hashtags
 - 💵 Currency amounts
-
-## 📂 File Structure
-
-alu_regex-data-extraction-cedrick13bienvenue/
-├── index.js
-└── README.md
